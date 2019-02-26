@@ -1,1 +1,1 @@
-using NaiveBayes and Decision Tree algotihm.
+using NaiveBayes and Decision Tree algorithm.
